@@ -1,3 +1,9 @@
 baseurl = "http://kuromatu.github.io/"
 languageCode = "ja-jp"
 title = "裏方の裏方"
+
+[params]
+  logo      = "/images/logo.jpg"
+  copyright = "kuromatu All rights reserved."
+  twitter   = "https://twitter.com/kuromatu"
+  github    = "https://github.com/kuromatu/"
